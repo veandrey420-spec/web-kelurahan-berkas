@@ -311,7 +311,7 @@
     <div class="container">
       <h2>Peta Lokasi</h2>
       <!-- UBAH: ganti link src maps -->
-      <iframe class="map" src="https://www.google.com/maps/embed?pb=..." allowfullscreen></iframe>
+      <iframe class="map" src="https://maps.app.goo.gl/4KTFP5mWS9vMC4qu5" allowfullscreen></iframe>
     </div>
   </section>
 
@@ -320,7 +320,7 @@
     <div class="container">
       <h2>Kontak</h2>
       <!-- UBAH: alamat, telepon, email -->
-      <p>Alamat: Jl. Contoh Raya No. 1</p>
+      <p>Alamat: Jl. Ps. Berkas,Kec. Tlk. Segara, Kota Bengkulu, Bengkulu</p>
       <p>Telepon: (021) 123-456</p>
       <p>Email: kelurahan@example.go.id</p>
     </div>
